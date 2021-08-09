@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vpn-connection-test",
+  "private_key_id": "35acdd5e39d5d97c1c34c772e868bc96d5997e38",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSRKPrMkKwrHSq\nw/7o5plWW20DwNQl+fdNgMZra8GK3PwlxuL7lcFcYm0jd7RZaqpQ+oFfzCLYbUC1\n29tTP41OZJaTkYJpGYvmHyab1TpM3q3t5oCF5AgzGznDsH4KQoT8rPaFyka0A71X\nIBlUQai1b7os0sepqfnOFFmHnFoGXgL0tDu0LZRrvs98O6m3IVDOc7AXGwSBBv/+\nLB2evcbl6HYoUtOn7fKxVZtDtVyKCGsCZbqD2fJqUyJYa+0k2HqfytKybfP8nJ8Z\n+POCQW4pZZrZUv7FrIgskfQ8p1ekWJcAmEeFptNnrBEVcs8Gv6R8UXidQ+8GycnD\nvpxfO507AgMBAAECggEANRz+lPogq3UckUgp+1XIlO5KNsD+NcuTAwJM3LSe8n9I\nuBgpnOhiq/322JczuMR/Wi41AOhVQvsx9d4f5ELw5ET3XjZKzVaVJp9mxsVRUTqM\nj8QCYg/MXHB7omlSJTBRXGwqZ3hFbNJnAPuMOmLNhWtACXOC2OIlRj+Qr/c4LFQc\nz7Ose8MaOqOfQaF5rh9tPJWjKS/JnUYYaxkd08vIydMBeZrscXm/BmNHkHt2RQSn\nyXi2uqUyjoTfVYyTp2S+Hu5V3ms4rMqY4p8pPGU7syUf07NOqIS61YyiaCeBYrLH\n+6IZrpCj7B7cowdxHs4NM3R2Z4E3mHM613ezlODk2QKBgQDoJwDkO/X/u6Dtvvyp\nXyXYN/9eGkF+3jVp4Ta3K6SM6jhwCbSzSAR0pkqfrTGvIwxqaXdBx0zcqUnMenDR\nfqIIvJoFh9EJl4V0kwrBA1q/b/iTrb+M/VVLriLD/0P/a3kORYAimL4EBLQGGB7Z\ncrWZaJwEFR8hJvuke042JoXUkwKBgQDn3iObpNpTKbaJeWDg2X4FW2QsBq+GUMNZ\nRkM5a2lCbr5UzovY4Mlnhn7hBjvxf6aW6/NNEXMz5d2BOMuHlsX9asfBz9hdpARv\nt7oEFFS3NU+xbrAd9lcjWFDdM3QpQyl1EdDHyGLSY+xdExWu42AADwk/3JdYVEiK\nDTIOHR1luQKBgQCU54+W1S7wnTSXygzdxn3Ltf9CKK0h5v1zsFUcIA4npIQWuOMC\nq4rQF2l+CeT4ZQ6tooAv3NncH2mKkm6SsRrVZ8OTEI5wDJQ5NaeMLc6jQ/q5HpTi\npgtzw3nhJXZD+ndnRATwK/CVOz8NOaNv7je08ng/1hxlc0+tLLn52bO1qQKBgGVI\n8B0JQiWZzxb2Yo9V8mq8pWFl+j6eAPd6bdsjRHO0lIfPQd+XMeN7KOl7I6w2qrq6\njylXOg+tlbjg6mdsQUiV4HSVKlqdTyLOCv/FMcxmCU3koCI2fZH+/jPiShfMMsvk\n4GKk8iYdaB6wO4SN5l2gM9YlsibvilBjuz3XEgRhAoGAWrYhXCcN8NJZBF63TaOT\ndswd9es9BmuL12cROzfxov8Qq7UdluGj9Mk5m2XDaqGS+NB7oDl99+4tSliETXeP\nCD88i+3ooHpDn60fsyX3Ynsq5tNOAQfIeMaSbX/GT0Jp71SXBGrXEjJBTuZjRMLu\n0901OR+Xeq+gYDKJ9PsyqX4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "svc-vpn-test@vpn-connection-test.iam.gserviceaccount.com",
+  "client_id": "112154648139329027097",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/svc-vpn-test%40vpn-connection-test.iam.gserviceaccount.com"
+}
